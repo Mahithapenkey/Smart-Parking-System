@@ -33,9 +33,7 @@ This project automates a car parking system using an Arduino Uno, IR sensors, a 
 
 ## 📸 Project Images
 
-![Project Photo 1](images/project_photo1.jpg)
-![Project Photo 2](images/project_photo2.jpg)
+![Project Photo 1](Project Photo1.png)
+![Project Photo 2](Project Photo2.png)
 
-## 📜 License
 
-This project is licensed under the MIT License.
